@@ -23,6 +23,7 @@ I've provided data visualization skills, including aggregation, interactive visu
 - - - 
 
 **IMPORTANT:** 
+I added the pictures from the notepook and manual load it in the readme.
 * My visual plots can be viewed in [Images](./Images/)
 * The rest of the code is in the the **File:** [San Fransisco Real Estate Market Analysis](/san_francisco_housing.ipynb)
 
