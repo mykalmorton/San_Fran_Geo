@@ -1,5 +1,5 @@
 <!---
-<div> <img src="/SanFran.jpeg" alt="Sim" align="center" width="100%"/>
+<div> <img src="../Images/San_Fran.jpeg" alt="Sim" align="center" width="100%"/>
 </div>
 -->
 ## Background
