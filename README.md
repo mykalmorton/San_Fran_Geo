@@ -3,7 +3,7 @@
 </div>
 -->
 ## Background
-====
+
 **Proptech**, the application of technology to real-estate markets, is an innovative domain in the fintech industry. we want to offer an instant, one-click service for people to buy properties and then rent them. I've trial of this offering in the San Francisco real-estate market. If the service proves popular, we can then expand to other markets.
 
 I've provided data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
