@@ -1,5 +1,5 @@
 <!---
-<div> <img src="https://c.tenor.com/LsaHIHJWFzEAAAAd/reis-sanfran.gif](https://images.pexels.com/photos/1485894/pexels-photo-1485894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Sim" align="center" width="100%"/>
+<div> <img src="https://images.pexels.com/photos/1485894/pexels-photo-1485894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Sim" align="center" width="100%"/>
 </div>
 -->
 ## Background
