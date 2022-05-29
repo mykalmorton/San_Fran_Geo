@@ -49,7 +49,7 @@ I've provided data visualization skills, including aggregation, interactive visu
 * Style and format the line plot to ensure a professionally styled visualization.
     * Did any year experience a drop in the average sale price per square foot compared to the previous year?
         * If so, did the gross rent increase or decrease during that year?
-        ![2](./Images/avg_sale_price_%26_gross_rent.png)
+        ![2](./Images/avg_sale_price_gross_rent.png)
 
 ## 3. Compare the Average Sale Prices by Neighborhood
 
