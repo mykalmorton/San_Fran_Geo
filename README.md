@@ -22,7 +22,7 @@ I've provided data visualization skills, including aggregation, interactive visu
 
 - - - 
 
-**IMPORTANT:** I am able to plot on iPython Notebook, however the plots are not visible when I published the Notebook on GitHub. [More on this issue](https://stackoverflow.com/questions/62053561/plotly-graphs-not-showing-through-github-on-jupyter-notebooks)
+**IMPORTANT:** 
 * My visual plots can be viewed in [Images](./Images/)
 * The rest of the code is in the the **File:** [San Fransisco Real Estate Market Analysis](/san_francisco_housing.ipynb)
 
