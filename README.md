@@ -60,7 +60,7 @@ I've provided data visualization skills, including aggregation, interactive visu
 * Use the `groupby` parameter to create an interactive widget for `neighborhood`.
 * Style and format the line plot to ensure a professionally styled visualization.
     * For the Anza Vista neighborhood, is the average sale price per square foot for 2016 more or less than the price that’s listed for 2012?
-    ![3](./Images/price_info_by_neighborhood.png)
+    ![3](./Images/Anza.png)
 
 ## 4. Build an Interactive Neighborhood Map
 
